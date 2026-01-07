@@ -1,4 +1,4 @@
-<img width="1063" height="522" alt="image" src="https://github.com/user-attachments/assets/c6eaaf61-111e-4c6e-af4c-eab36a6c0dc4" /># LPOD Retiming Script
+# LPOD Retiming Script
 This code specifically deals with the problems encountered by the incoming formatting associated with the Particle webhooks integration, Google Sheets & Excel .csv translations. 
 
 ## Before Running Script!!
